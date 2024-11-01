@@ -1,0 +1,6 @@
+../Core/Src/potentiometer.h:9:6:PotentiometerInit	0	static
+../Core/Src/potentiometer.h:13:10:PotentiometerRead	32	static
+../Core/Src/potentiometer.h:32:10:PotentiometerReadSmooth	40	static
+../Core/Src/main.c:136:6:SystemClock_Config	96	static,ignoring_inline_asm
+../Core/Src/main.c:76:5:main	40	static,ignoring_inline_asm
+../Core/Src/main.c:264:6:Error_Handler	0	static,ignoring_inline_asm
